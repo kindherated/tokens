@@ -1,0 +1,11 @@
+{
+ "name": "DOD Token",
+ "website": "https://www.dodchain.cn",
+ "description": "DOD为DOD（Diamonds）生态Token，具备平台币＋权限代币的双重属性。用户锁仓DOD，根据时长和数量的加权平均值，获得不同等级的NFT加密艺术品，通过NFT自由转让的方式变现，DOD永不通胀。用户消耗DOD，将持有的NFT推送到首页热门，DOD实现通缩。DOD（Diamonds）部分收入用于回购销毁DOD，进一步降低DOD总量，并逐步成为稀缺性资产",
+ "explorer": "https://tronscan.io/#/contract/TTXZGrGrDWteZ2vSxwrUaHhtke9GtvAC2i",
+ "type": "TRC20",
+ "symbol": "DOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TTXZGrGrDWteZ2vSxwrUaHhtke9GtvAC2i"
+}
